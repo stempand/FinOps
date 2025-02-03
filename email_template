@@ -1,0 +1,23 @@
+Topic: Cost Optimization Recommendations – Review & Next Steps
+
+Hi [Recipient’s Name],
+
+I hope you’re doing well. As part of our FinOps initiative, we have analyzed your workloads and compiled a set of cost optimization recommendations for your review.
+
+You can filter on:
+	•	Projected yearly savings – Identify the most impactful optimizations.
+	•	Account-wise savings – See potential savings across your environment.
+	•	Type of action & environment – Helps categorize cost-reduction opportunities.
+
+Key Recommendations
+
+Saving Tactic | Projected Savings (USD)
+[Tactic 1] | [$ Amount]
+[Tactic 2] | [$ Amount]
+[Tactic 3] | [$ Amount]
+
+Please review the attached file, and let us know if you have any questions or need further clarification.
+
+Best regards,
+[Your Name]
+FinOps Team
